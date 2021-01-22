@@ -27,7 +27,7 @@ for (i = 0; i < fleche.length; i++) {
 
     });
 }
-class Principale {
+/*class Principale {
     constructor( nom, lien, sousmenus){
         this.nom = nom;
         this.lien = lien;
@@ -36,4 +36,4 @@ class Principale {
 getHtml = () =>{
     const elt = 
 }
-}
+}*/
